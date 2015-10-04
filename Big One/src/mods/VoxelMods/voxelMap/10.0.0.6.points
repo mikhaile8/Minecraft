@@ -1,0 +1,6 @@
+subworlds:
+oldNorthWorlds:
+name:Home,x:-221,z:-60,y:69,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:0#
+name:home,x:-368,z:-352,y:42,enabled:true,red:0.32575125,green:0.10913688,blue:0.7996723,suffix:,world:,dimensions:-1#
+name:Home,x:-358,z:-296,y:71,enabled:true,red:0.76450247,green:0.17058825,blue:0.370075,suffix:,world:,dimensions:0#
+name:Latest Death,x:-258,z:-391,y:69,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:Skull,world:,dimensions:0#
