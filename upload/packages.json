@@ -7,6 +7,13 @@
       "version" : "2015-10-08-01-00-58",
       "location" : "Super-Cool-Pack.json",
       "priority" : 0
+    },
+    {
+      "title" : "The Incredible Modpack(TIM)",
+      "name" : "The Incredible Modpack(TIM)",
+      "version" : "2015-10-12-00-42-34",
+      "location" : "the-incredible-modpack-tim-.json",
+      "priority" : 0
     }
   ]
 }
