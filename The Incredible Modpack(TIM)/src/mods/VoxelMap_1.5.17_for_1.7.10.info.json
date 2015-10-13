@@ -1,0 +1,8 @@
+{
+  "feature": {
+    "name": "Voxelmap",
+    "description": "Minimap/waypoints mod",
+    "recommendation": "starred",
+    "selected": false
+  }
+}
