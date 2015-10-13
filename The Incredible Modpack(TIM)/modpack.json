@@ -2,7 +2,22 @@
   "name" : "The Incredible Modpack(TIM)",
   "title" : "The Incredible Modpack(TIM)",
   "gameVersion" : "1.7.10",
-  "features" : [ ],
+  "features" : [
+    {
+      "properties" : {
+        "name" : "Journeymap",
+        "description" : "Minimap/Waypoints mod",
+        "recommendation" : "starred",
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/*minimap*"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
   "userFiles" : {
     "include" : [
       "options.txt",
