@@ -2,17 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Big One",
-      "name" : "Big One",
-      "version" : "2015-10-08-01-00-58",
-      "location" : "Super-Cool-Pack.json",
-      "priority" : 0
-    },
-    {
-      "title" : "The Incredible Modpack(TIM)",
-      "name" : "The Incredible Modpack(TIM)",
-      "version" : "2015-10-13-17-53-55",
-      "location" : "the-incredible-modpack-tim-.json",
+      "title" : null,
+      "name" : "Oswalt",
+      "version" : "2015-10-17-19-58-01",
+      "location" : "oswalt.json",
       "priority" : 0
     }
   ]
